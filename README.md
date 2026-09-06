@@ -56,6 +56,16 @@ prompt-gallery/
 └── README.md
 ```
 
+## النشر على Cloudflare Pages
+
+للنشر كـ static site على Cloudflare Pages:
+
+1. اربط المستودع `rak788/prompt-gallery` بمشروع Pages جديد.
+2. إعدادات البناء:
+   - **Build command:** `npm run build`
+   - **Build output directory:** `out`
+3. انشر — لا حاجة لمتغيرات بيئة إضافية. المشروع مُعدّ بـ `output: 'export'` في `next.config.ts`.
+
 ## النشر على Vercel
 
 1. اربط المستودع rak788/prompt-gallery بمشروع جديد على Vercel.
