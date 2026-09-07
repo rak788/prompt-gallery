@@ -70,5 +70,61 @@
     "image": "/x/p6.jpg",
     "category": "منتجات",
     "description": "قالب استوديو عام لأي منتج. من @PrometheanAIX"
+  },
+  {
+    "id": "10",
+    "title": "برومت إعلان قميص موضة",
+    "prompt": "Create a high-end fashion product advertisement poster in portrait 4:5 ratio, clean minimal editorial style using a reference product image. Background is a crisp blue gradient studio setup, very minimal, soft, airy, with subtle bright tones. Main product: a tangerine orange oversized waffle-knit long sleeve crewneck shirt, ghost-hung on a silver metal clothing rack stand with a visible clamp at the top-right. The shirt hangs naturally with slight drape, front-facing. On the center chest, include white puff embroidery text: \"SVG\" (first line with 3 small 4-point star inside the V), \"STUDIOS Aloony\" (second line), \"MOTIVATION THROUGH DISCIPLINE\" (third line, slightly smaller), \"SS26 - 29213\" (fourth line, smallest). Add a small white woven label patch on the right hem side seam and a visible white neck tag at the collar. Typography: top center minimal brand logo \"SVG STUDIOS\" in blue green clean sans-serif, top-left italic cursive \"Field\" with a small blue green rectangle badge below reading \"edition\" in white, behind the shirt place massive ultra-condensed midnight purple green text \"GREEN TEE\" partially hidden and cut by the product, bleeding off edges. lower-left include handwritten \"Triple A\" and large cursive \"Studios\" in purple tone. Bottom section features three diagonal detail strips: macro waffle-knit texture, closeup puff embroidery stitching, and closeup white neck label, all with bright studio lighting. Between strips include small text \"Built for movement, designed for unity. The SVG Studios WIP Waffle Long sleeve — SS26 Collection\" Footer includes 4 small barcode at bottom-left, centered text \"• WWW. ALIBABA. COM • • •\" in spaced caps blue tone, and small text \"MADE IN BANGLADESH • SS26 COLLECTION\". Color palette is crimson red green, white, and bright accents only. Overall style is clean editorial fashion lookbook, military-inspired streetwear campaign, soft diffused lighting, high contrast product focus, photorealistic, ultra detailed, 8K quality.",
+    "image": "/x/meigen/m1.png",
+    "category": "منتجات",
+    "description": "بوستر أزياء لمنتج ملابس بستوديو نظيف. من meigen.ai"
+  },
+  {
+    "id": "11",
+    "title": "برومت تصوير كريم عناية",
+    "prompt": "A sleek jade-pink tube labeled \"Strawberry Repair Cream\" upright on glossy marble, surrounded by creamy Strawberry splashes and flying Strawberry slices mid-air. Warm natural lighting, minimal light-beige background, ultra-realistic textures.",
+    "image": "/x/meigen/m2.jpg",
+    "category": "منتجات",
+    "description": "تصوير منتج عناية بأجواء فاخرة وواقعية. من meigen.ai"
+  },
+  {
+    "id": "12",
+    "title": "برومت إعلان ساعة ذكية",
+    "prompt": "Minimalist commercial ad featuring oversized white smartwatch, ultra-clean design. A young woman in all-white outfit leans casually against the giant watch, relaxed confident pose, eyes closed, also wearing the same smartwatch on her wrist. Soft gradient blue background with large bold white \"APPLE\" text behind. Glossy reflective floor, soft studio lighting, modern high-end fashion/product photography. Small top-right text \"Designed by Mr Das\". Bottom center tagline in small white font: \"Stay connected, move smarter.\"",
+    "image": "/x/meigen/m3.jpg",
+    "category": "منتجات",
+    "description": "إعلان تجاري ميني مل لساعة ذكية. من meigen.ai"
+  },
+  {
+    "id": "13",
+    "title": "برومت بوستر شاي عضوي",
+    "prompt": "Create a calm premium advertising poster for a fictional organic tea brand \"ZEN LEAF\". FORMAT: 4:5 vertical, minimalist wellness layout. SUBJECT: a delicate glass teapot of golden herbal tea beside a single porcelain cup, fresh green leaves and a curl of gentle steam. BACKGROUND: soft sage-to-cream gradient with subtle rice-paper texture, tranquil empty space. LIGHTING: soft diffused natural morning light, delicate reflections, serene mood. TYPOGRAPHY: refined thin serif brand name \"ZEN LEAF\" centered top, tiny tagline \"Breathe. Sip. Restore.\" at the bottom. FINISH: 8k, photorealistic, calm premium wellness aesthetic.",
+    "image": "/x/meigen/m4.png",
+    "category": "منتجات",
+    "description": "بوستر هادئ لبراند مشروبات/شاي. من meigen.ai"
+  },
+  {
+    "id": "14",
+    "title": "برومت إعلان جوال فاخر",
+    "prompt": "Create a premium Apple-style smartphone advertisement poster in 4:5 vertical format, ultra-high resolution, with a clean, modern, global campaign aesthetic. Scene & Composition A minimal white studio background with a large rounded rectangular orange gradient panel placed behind the subject, slightly off-center. The gradient should feel soft and luminous, not flat. In the background, integrate oversized typography: \"PRO\" very large, partially cropped by frame edges, deep orange tone, slightly darker than the background panel, soft shadow and subtle depth, not overly graphic. Subject (Male Model) A stylish young male model (based on reference): light brown textured hair, short beard, round black glasses. Expression & Pose: calm, confident, neutral expression, direct eye contact, shot from a slightly low angle, one hand extended toward the camera holding the phone, body slightly angled for depth. Outfit: deep maroon jacket, clean off-white t-shirt, minimal accessories (subtle ring/chain). Product (Hero Focus) iPhone 17 Pro – Titanium Orange finish, placed in extreme foreground using forced perspective, slightly tilted to showcase camera depth. Details: ultra-realistic triple camera lenses, accurate reflections and glass depth, brushed titanium edges with subtle highlights, soft Apple logo reflection, fine material texture (no plastic feel). Lighting: Keep it soft and premium: key light from front-left (clean skin tones, smooth highlights), warm rim light from right (defines edges of phone and face), subtle orange bounce from background, soft shadows, no harsh contrast. UI & Graphic Elements: small Apple logo (top left), \"Built for Apple Intelligence.\" (top right, thin font), floating glass-style pill: \"iPhone 17 Pro\", 2–3 small sparkle accents, very subtle grain for realism. Bottom Section (Features): Four rounded glass cards with minimal icons: A19 Pro Chip — Unstoppable performance; 48MP Pro Camera — Total creative control; 4K Dolby Vision — Cinematic in every frame; Apple Intelligence — Personal. Private. Powerful. Bottom Right Text: Small clean paragraph: iPhone 17 Pro. Uncompromising power. A19 Pro chip. Advanced camera system. Designed for what’s next. Camera & Render Feel: 50mm lens look, shallow depth of field, slight natural lens distortion, HDR lighting, ultra-real textures (skin, metal, glass). Overall Direction: Make it feel like: shot in a real studio, not over-designed, premium but effortless. Nothing should look forced or overly perfect.",
+    "image": "/x/meigen/m5.jpg",
+    "category": "منتجات",
+    "description": "حملة إعلانية بأسلوب آبل لهاتف. من meigen.ai"
+  },
+  {
+    "id": "15",
+    "title": "برومت إعلان مشروب غازي",
+    "prompt": "Create a Cannes-level flagship advertising poster for an original soft drink brand named BUBBLENANA, featuring the hero product Banana Cream Sparkling Soda. Build the image with refined Orbit motion and clean Transit reduction, creating a bold, globally polished FMCG launch key visual. Core composition: Use a vertical poster with a seamless, fully saturated banana-yellow background, pure and uninterrupted. Keep the environment completely minimal so the product, mascot, and headline dominate with absolute clarity. Hero structure: At center-right, place a premium 3D anthropomorphic banana character in a dynamic forward-running pose, full of joyful momentum and clean silhouette appeal. The peel opens naturally into limbs, with believable volume and refined texture. The face should feel expressive, charming, and globally brandable, with premium character realism rather than a childish cartoon look. Product dominance: At center-left foreground, place one oversized hyper-realistic aluminum can of BUBBLENANA Banana Cream Sparkling Soda, held forward toward the camera by the banana mascot. The can must sit slightly closer to the viewer than the character, creating strong depth and clear commercial dominance. It should feel ice-cold, highly detailed, and premium, with crisp condensation droplets, elegant metallic reflections, and clean modern packaging hierarchy. Orbit structure: Use the composition to create a strong visual loop: curved headline -> mascot face -> presenting arm -> hero can -> lower body stride -> floating banana slices -> back up into the headline. Reinforce the orbit with the can tilt, the leg motion, the arc of the title, and the placement of a few restrained banana slices. The eye should always return to the can as the core brand anchor. Packaging direction: Design the can with a premium, globally publishable identity: BUBBLENANA, BANANA CREAM, SPARKLING SODA. Add only very restrained supporting details such as: \"soft fizz\", \"serve chilled\". Keep the front-of-pack clean, elegant, and easy to read. Avoid noisy claims. Typography system: At the upper center-right, place one large original curved headline in bold custom rounded display typography: \"PEEL THE FIZZ\". The headline should feel playful but polished, with premium spacing and clean outline control. Add one short supporting line in smaller refined type near the can: \"Creamy sparkle. Pure lift.\" Keep typography minimal and internationally styled. Transit reduction: Remove all unnecessary copy, long descriptive text, and excessive social-style details. Keep only the essential brand-building elements: logo, headline, hero can, mascot, one short support line, and a small CTA. At the bottom center, place a tiny clean CTA capsule: \"TASTE NOW\". Nothing else should compete with the hero product. Floating elements: Use only 2-3 softly motion-blurred banana slices, placed sparingly to support the sense of movement and flavor. Keep them subtle and secondary. Lighting and color: Use bright premium studio lighting with crisp highlights on the can, soft sculpted shadows under the mascot, and strong subject separation against the yellow field. Keep the palette tightly controlled around banana yellow, creamy off-white, metallic silver, and minimal deep accent color on the packaging. Visual style: Ultra-realistic commercial product rendering, premium 3D mascot realism, believable banana texture, realistic can condensation, clean packaging detail, flagship FMCG campaign quality, strong hierarchy, no clutter, no cheap retail-poster feel. Mood: Sunny, fizzy, playful, craveable, globally branded, high-energy, premium, instantly memorable. Negative prompt: cheap flyer design, cluttered composition, unreadable packaging, childish cartoon mascot, distorted limbs, awkward hands, flat lighting, muddy yellow background, too many floating slices, excessive copy, low-end convenience-store ad aesthetic, plastic-looking banana texture",
+    "image": "/x/meigen/m6.jpg",
+    "category": "منتجات",
+    "description": "إعلان مشروب بطابع تجاري قوي وماسكوت. من meigen.ai"
+  },
+  {
+    "id": "16",
+    "title": "برومت إعلان رياضي فاخر",
+    "prompt": "Avant-garde sports fashion advertisement, oversized tennis racket positioned like monumental sculpture, female athlete seated casually on the strings as if a suspended lounge, giant word \"PRECISION\" in bold typography behind, crisp white studio backdrop, reflective court-like floor, luxury sportswear editorial aesthetic, cinematic lighting, ultra-clean composition, 1:1",
+    "image": "/x/meigen/m7.jpg",
+    "category": "منتجات",
+    "description": "إعلان أزياء رياضية بأسلوب تحريري. من meigen.ai"
   }
 ]
